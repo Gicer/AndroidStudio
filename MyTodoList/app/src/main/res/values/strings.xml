@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTodoList</string>
+    <string name="validate">Valider ajout</string>
+    <string name="empty">Vider la liste</string>
+</resources>
